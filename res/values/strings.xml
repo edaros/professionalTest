@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProfessionalTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageContentDescription">imagen de bienvenida</string>
+    <string name="buttonTest">Test</string>
+    <string name="buttonBuscar">Buscar</string>
+    <string name="buttonInstrucciones">Instrucciones</string>
+    <string name="textExplain">Anímate y descubre tu vocación!!!!!!!</string>
+    <string name="textTitle">Professional Test</string>
+    <string name="textDescripcion">Responde las preguntas, todas son importantes. Entre mas concentrado estés, mas confiable sera el resultado.</string>
+    <string name="title_activity_buscar">Búsqueda de Carreras</string>
+    <string name="textDepartamento">Departamento</string>
+    <string name="textMunicipio">Municipio</string>
+    <string name="textCarrera">Carrera</string>
+
+    <string-array name="departamentos">
+        <item>Amazonas</item>
+        <item>Antioquia</item>
+        <item>Arauca</item>
+        <item>Atlántico</item>
+        <item>Bolívar</item>
+        <item>Boyacá</item>
+        <item>Caldas</item>
+        <item>Caquetá</item>
+        <item>Casanare</item>
+        <item>Cauca</item>
+    </string-array>
+     <string-array name="municipios">
+        <item>Amazonas</item>
+        <item>Antioquia</item>
+        <item>Arauca</item>
+        <item>Atlántico</item>
+        <item>Bolívar</item>
+        <item>Boyacá</item>
+        <item>Caldas</item>
+        <item>Caquetá</item>
+        <item>Casanare</item>
+        <item>Cauca</item>
+    </string-array>
+        <string name="departamentoPrompt">Elija un Departamento</string>
+
+</resources>
