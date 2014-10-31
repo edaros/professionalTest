@@ -21,7 +21,14 @@ public class MainActivity extends Activity {
 	   startActivity(intentBuscar);
    }
 
-
+   public void throwTestActivity(View view){
+	   Intent intentTest = new Intent(this, PreguntasActivity.class);
+	   startActivity(intentTest);
+   }
+   public void buttonInstrucciones(View view){
+	   Intent intentInstrucciones = new Intent(this,Instrucciones.class);
+	   startActivity(intentInstrucciones);
+   }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.

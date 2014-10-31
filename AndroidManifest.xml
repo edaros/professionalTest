@@ -26,6 +26,14 @@
             android:name=".BuscarActivity"
             android:label="@string/title_activity_buscar" >
         </activity>
+        <activity
+            android:name=".PreguntasActivity"
+            android:label="@string/title_activity_preguntas" >
+        </activity>
+        <activity
+            android:name=".Instrucciones"
+            android:label="@string/title_activity_instrucciones" >
+        </activity>
     </application>
 
 </manifest>

@@ -15,31 +15,18 @@
     <string name="textDepartamento">Departamento</string>
     <string name="textMunicipio">Municipio</string>
     <string name="textCarrera">Carrera</string>
-
-    <string-array name="departamentos">
-        <item>Amazonas</item>
-        <item>Antioquia</item>
-        <item>Arauca</item>
-        <item>Atlántico</item>
-        <item>Bolívar</item>
-        <item>Boyacá</item>
-        <item>Caldas</item>
-        <item>Caquetá</item>
-        <item>Casanare</item>
-        <item>Cauca</item>
-    </string-array>
-     <string-array name="municipios">
-        <item>Amazonas</item>
-        <item>Antioquia</item>
-        <item>Arauca</item>
-        <item>Atlántico</item>
-        <item>Bolívar</item>
-        <item>Boyacá</item>
-        <item>Caldas</item>
-        <item>Caquetá</item>
-        <item>Casanare</item>
-        <item>Cauca</item>
-    </string-array>
-        <string name="departamentoPrompt">Elija un Departamento</string>
+    <string name="message">Ha seleccionado %1$s (%2$s)</string>
+    <string name="departamentoPrompt">Elija un Departamento</string>
+    <string name="title_activity_preguntas">Test vocacional</string>
+    <string name="textModulo">A) Qué tanto te agrada?:</string>
+    <string name="textPreguntas">1.-Salir de excursión</string>
+    <string name="textPreguntas2">2.-Amar y desarmar objetos mecánicos</string>
+    <string name="textPreguntas3">3.-Resolver mecanizaciones numéricas</string>
+    <string name="textPreguntas4">4.-Discutir en clase</string>
+    <string name="buttonAceptar">Aceptar</string>
+    <string name="title_activity_instrucciones">Instrucciones</string>
+    <string name="textInstruc">Instrucciones</string>
+    <string name="textInstrucciones">A continuación se presenta una lista de actividades comunes sobre las cuales puedes haber tenido ya alguna experiencia personal.</string>
+    <string name="textExplicacion"></string>
 
 </resources>

@@ -11,7 +11,7 @@
     tools:context="co.edu.udea.compumovil.gr7.MainActivity" >
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/textInstrucciones"
         android:layout_width="282dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical|center_horizontal"
@@ -61,15 +61,17 @@
             android:text="@string/buttonBuscar" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/boton"
             style="@android:attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
+            android:onClick="throwTestActivity"
             android:layout_height="wrap_content"
             android:text="@string/buttonTest" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/buttonInstrucciones"
             style="@android:attr/buttonBarButtonStyle"
+            android:onClick="buttonInstrucciones"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/buttonInstrucciones" />
