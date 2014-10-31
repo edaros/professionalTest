@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="carreras">
+        <item>Ninguna</item>
+        <item>Ingenieria</item>
+        <item>Enfermeria</item>
+        <item>Medicina</item>
+        <item>Trabajo Social</item>
+        <item>Contaduria</item>
+        <item>Comunicacion</item>
+        <item>Filologia</item>
+        <item>Filosofia</item>
+        <item>Astronomia</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>Ninguno</item>
+        <item>Amazonas</item>
+        <item>Antioquia</item>
+        <item>Arauca</item>
+        <item>Atlántico</item>
+        <item>Bolívar</item>
+        <item>Boyacá</item>
+        <item>Caldas</item>
+        <item>Caquetá</item>
+        <item>Casanare</item>
+    </string-array>
+    <string-array name="municipios_amazonas">
+        <item>El Encanto</item>
+        <item>La Chorrera</item>
+        <item>La Pedrera</item>
+        <item>La Victoria </item>
+        <item>Leticia</item>
+        <item>Mirití-Paraná</item>
+        <item>Puerto Alegría</item>
+        <item>Puerto Arica</item>
+        <item>Puerto Nariño</item>
+        <item>Puerto Santander</item>
+        <item>Tarapaca </item>
+    </string-array>
+    <string-array name="municipios_antioquia">
+        <item>Abejorral</item>
+        <item>Abriaqui</item>
+        <item>Alejandría</item>
+        <item>Amaga</item>
+        <item>Amalfi</item>
+        <item>Andes</item>
+        <item>Angelopolis</item>
+        <item>Angostura</item>
+        <item>Anorí</item>
+        <item>Anza</item>
+        <item>Medellin</item>
+    </string-array>
+    <string-array name="municipios_arauca">
+        <item>Arauca</item>
+        <item>ciudad capital</item>
+        <item>Arauquita</item>
+        <item>Cravo Norte</item>
+        <item>Fortul</item>
+        <item>Puerto Rondón</item>
+        <item>Saravena</item>
+        <item>Tame</item>
+    </string-array>
+    <string-array name="municipios_atlantico">
+        <item>Barranquilla</item>
+        <item>Baranoa</item>
+        <item>Campo de la Cruz</item>
+        <item>Candelaria</item>
+        <item>Galapa</item>
+        <item>Juan De Acosta</item>
+        <item>Luruaco</item>
+        <item>Malambo</item>
+        <item>Manatí</item>
+        <item>Palmar De Varela</item>
+        <item>Piojó</item>
+    </string-array>
+    <string-array name="municipios_bolivar">
+        <item>Achí</item>
+        <item>Altos del Rosario</item>
+        <item>Arenal</item>
+        <item>Arjona</item>
+        <item>Arroyohondo</item>
+        <item>Barranco de Loba</item>
+        <item>Calamar</item>
+        <item>Cantagallo</item>
+        <item>Cartagena</item>
+        <item>Cicuco</item>
+        <item>Córdoba</item>
+    </string-array>
+    <string-array name="municipios_boyaca">
+        <item>Almeida</item>
+        <item>Aquitania</item>
+        <item>Arcabuco</item>
+        <item>Belén</item>
+        <item>Berbeo</item>
+        <item>Beteitiva</item>
+        <item>Boavita</item>
+        <item>Boyacá</item>
+        <item>Briceño</item>
+        <item>Buenavista</item>
+        <item>Tunja</item>
+    </string-array>
+    <string-array name="municipios_caldas">
+        <item>Aguadas</item>
+        <item>Anserma</item>
+        <item>Aranzazu</item>
+        <item>Belalcazar</item>
+        <item>Chinchiná</item>
+        <item>Filadelfia</item>
+        <item>La Dorada</item>
+        <item>La Merced</item>
+        <item>Manzanares</item>
+        <item>Marmato</item>
+        <item>Manizales</item>
+    </string-array>
+    <string-array name="municipios_caqueta">
+        <item>Albania</item>
+        <item>Belén Andaquies</item>
+        <item>Cartagena del Chaira</item>
+        <item>Curillo</item>
+        <item>Florencia</item>
+        <item>El Doncello</item>
+        <item>El Paujil</item>
+        <item>La Montañita</item>
+        <item>Milán</item>
+        <item>Morelia</item>
+        <item>Puerto Rico</item>
+    </string-array>
+    <string-array name="municipios_casanare">
+        <item>Aguazul</item>
+        <item>Chameza</item>
+        <item>Hato Corozal</item>
+        <item>La Salina</item>
+        <item>Maní</item>
+        <item>Monterrey</item>
+        <item>Nunchia</item>
+        <item>Orocue</item>
+        <item>Paz de Ariporo</item>
+        <item>Pore</item>
+        <item>Yopal</item>
+    </string-array>
+    <string-array name="arrayDefecto">
+        <item>--</item>
+    </string-array>   
+
+</resources>
